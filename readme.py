@@ -2,10 +2,7 @@ readme_content = """### Hi there 👋
 
 I create some cool stuff (C, python and Fun !)
 
-### Contact me
-
-* [Mail](mailto:edesaint@42paris.com)
-* [Linkedin](To do (Linkedin)..)
+### Contact me: edesaint@42paris.com
 
 ### Visitor count
 
