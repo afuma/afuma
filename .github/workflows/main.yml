@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update index.py file
+      - name: Update README.md file
         run: |
-          python index.py > output.txt
+          python index.py > README.md
         env:
           CI: true
       - name: commit changes
