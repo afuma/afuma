@@ -8,4 +8,4 @@ Last update on Mon Mar 04 2024
 
 **303 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with hate, by Gabot ❤️
+🤖 This README.md is updated with hate, by Bicko ❤️
