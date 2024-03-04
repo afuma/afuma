@@ -1,4 +1,4 @@
-readme_content = """### Hi there 👋
+### Hi there 👋
 
 I create some cool stuff (C, python and Fun !)
 
@@ -15,6 +15,3 @@ Last update on <#today_date>
 <#day_before_new_years> days before new years
 
 <#gabot_signing>
-"""
-
-module_exports = readme_content
