@@ -3,7 +3,7 @@ import re
 
 # Fonction pour lire le fichier readme
 def read_readme_file():
-    with open('./readme', 'r') as file:
+    with open('./README.md', 'r') as file:
         return file.read()
 
 # Fonction pour mettre à jour l'identificateur dans le readme
