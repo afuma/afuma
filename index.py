@@ -1,5 +1,4 @@
 import datetime
-import random
 import re
 
 # Fonction pour lire le fichier readme
