@@ -8,7 +8,7 @@ I create some cool stuff (C, python and Fun !)
 
 <img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
 
-Added the `Mon 3 Jan 2022`
+Added the `Friday 29 feb 2024`
 
 Last update on <#today_date>
 
