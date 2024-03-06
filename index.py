@@ -20,8 +20,8 @@ def find_identifier_index(rows, identifier):
             return i
     return -1
 
-# Fonction pour obtenir la signature de Gabot
-def get_gabot_signing():
+# Fonction pour obtenir la signature de Bicko
+def get_bicko_signing():
     mood_by_day = {
         1: 'hate',
         2: 'wickedness',
@@ -32,7 +32,7 @@ def get_gabot_signing():
         7: 'love',
     }
     mood = mood_by_day[today.weekday() + 1]
-    return f'🤖 This README.md is updated with {mood}, by Gabot ❤️'
+    return f'🤖 This README.md is updated with {mood}, by Bicko ❤️'
 
 # Fonction pour obtenir la date d'aujourd'hui
 def get_today_date():
@@ -65,7 +65,7 @@ def main():
     identifier_to_update = {
         'day_before_new_years': get_dbnw_sentence(),
         'today_date': get_today_date(),
-        'gabot_signing': get_gabot_signing(),
+        'bicko_signing': get_bicko_signing(),
     }
 
     for key, value in identifier_to_update.items():

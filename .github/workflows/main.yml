@@ -23,7 +23,7 @@ jobs:
           author_name: Etienne
           force: false
           signoff: false
-          message: ':memo: README.md updated by Gabot'
+          message: ':memo: README.md updated by Bicko'
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
