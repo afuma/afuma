@@ -8,5 +8,5 @@ Last update on Wed Mar 06 2024
 
 **301 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with pleasure, by Gabot ❤️
+🤖 This README.md is updated with pleasure, by Bicko ❤️
 
