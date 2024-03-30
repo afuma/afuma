@@ -4,9 +4,9 @@ I create some cool stuff (C, python and Fun !)
 
 Added the `Friday 29 feb 2024`
 
-Last update on Fri Mar 29 2024
+Last update on Sat Mar 30 2024
 
-**278 day before 2025 ⏱** days before new years
+**277 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with cruelty, by Bicko ❤️
+🤖 This README.md is updated with horror, by Bicko ❤️
 
