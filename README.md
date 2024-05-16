@@ -12,7 +12,7 @@ I enjoy exploring the endless possibilities of coding, from developing efficient
 
 📅 Profile created on: Friday, February 29, 2024
 🛠️ Last update on Thu May 16 2024
-**230 day before 2025 ⏱** days before <#next_year>
+**230 day before 2025 ⏱** days until <#next_year>
 
 🤖 This README.md is updated with wickedness, by Bicko ❤️
 
