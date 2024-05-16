@@ -1,6 +1,8 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
+![My beautiful Peacock](https://github.com/afuma/afuma/blob/master/images/paon_2.png)
+
 I'm Afuma, and I love creating cool and innovative projects using:
 
 ✅ C
