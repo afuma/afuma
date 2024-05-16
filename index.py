@@ -40,7 +40,6 @@ def get_today_date():
 
 # Fonction pour obtenir la prochaine année
 def get_next_year():
-    today = datetime.today()
     next_year = today.year + 1
     return next_year
 
