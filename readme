@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
-<img src="https://example.com/path/to/your/image.jpg" alt="Peacock Image" width="300" height="200">
+<img src="https://github.com/afuma/afuma/blob/master/images/paon_2.png" alt="My beautiful Peacock" width="300" height="200">
 
 I'm Afuma, and I love creating cool and innovative projects using:
 
