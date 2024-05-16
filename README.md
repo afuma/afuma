@@ -14,7 +14,7 @@ I enjoy exploring the endless possibilities of coding, from developing efficient
 
 🛠️ Last update on Thu May 16 2024
 
-**230 day before 2025 ⏱** days until <#next_year>
+**230 day before 2025 ⏱**
 
 🤖 This README.md is updated with wickedness, by Bicko ❤️
 
