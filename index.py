@@ -41,7 +41,7 @@ def get_today_date():
 # Fonction pour obtenir la prochaine année
 def get_next_year():
     next_year = today.year + 1
-    return next_year
+    return str(next_year)
 
 # Fonction pour obtenir la description de soi-même
 def get_myself():
