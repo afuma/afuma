@@ -5,6 +5,8 @@ Welcome to my GitHub profile!
 
 <img src="https://github.com/afuma/afuma/blob/master/images/paon_2.png" alt="My beautiful Peacock" width="300" height="200">
 
+</div>
+
 I'm Afuma, and I love creating cool and innovative projects using:
 
 ✅ C
@@ -23,6 +25,4 @@ I enjoy exploring the endless possibilities of coding, from developing efficient
 🤖 This README.md is updated with wickedness, by Bicko ❤️
 
 Thank you for visiting! Feel free to explore my repositories and let's code something amazing together!
-
-</div>
 
