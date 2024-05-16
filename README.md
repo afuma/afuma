@@ -4,7 +4,9 @@ Welcome to my GitHub profile!
 I'm Afuma, and I love creating cool and innovative projects using:
 
 ✅ C
+
 🖥️ C++
+
 ❤️ Python
 🎉 Fun and engaging software
 I enjoy exploring the endless possibilities of coding, from developing efficient algorithms to crafting interactive applications.
