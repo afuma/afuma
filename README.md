@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hi there 👋
 Welcome to my GitHub profile!
 
@@ -21,4 +23,6 @@ I enjoy exploring the endless possibilities of coding, from developing efficient
 🤖 This README.md is updated with wickedness, by Bicko ❤️
 
 Thank you for visiting! Feel free to explore my repositories and let's code something amazing together!
+
+</div>
 
