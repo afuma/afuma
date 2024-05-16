@@ -38,11 +38,6 @@ def get_bicko_signing():
 def get_today_date():
     return today.strftime('%a %b %d %Y')
 
-# Fonction pour obtenir la prochaine année
-def get_next_year():
-    next_year = today.year + 1
-    return str(next_year)
-
 # Fonction pour obtenir la description de soi-même
 def get_myself():
     return 'penguin 🐧' if today.day % 2 == 0 else 'penguin bear 🐧🐻'
@@ -71,7 +66,6 @@ def main():
         'day_before_new_years': get_dbnw_sentence(),
         'today_date': get_today_date(),
         'bicko_signing': get_bicko_signing(),
-        'next_year': get_next_year(),
     }
 
     for key, value in identifier_to_update.items():
