@@ -3,7 +3,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
-<img src="https://github.com/afuma/afuma/blob/master/images/paon_2_v1.png" alt="My beautiful Peacock" width="550" height="350">
+<img src="https://github.com/afuma/afuma/blob/master/images/paon_2_760x506.png" alt="My beautiful Peacock" width="550" height="350">
 
 </div>
 
