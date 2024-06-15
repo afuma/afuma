@@ -18,11 +18,11 @@ I enjoy exploring the endless possibilities of coding, from developing efficient
 
 📅 Profile created on: Friday, February 29, 2024
 
-🛠️ Last update on Fri Jun 14 2024
+🛠️ Last update on Sat Jun 15 2024
 
-**201 day before 2025 ⏱**
+**200 day before 2025 ⏱**
 
-🤖 This README.md is updated with cruelty, by Bicko ❤️
+🤖 This README.md is updated with horror, by Bicko ❤️
 
 Thank you for visiting! Feel free to explore my repositories and let's code something amazing together!
 
