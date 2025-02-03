@@ -15,6 +15,7 @@ I'm Afuma, and I love creating cool and innovative projects using:
 
 🎉 Fun and engaging software
 I enjoy exploring the endless possibilities of coding, from developing efficient algorithms to crafting interactive applications.
+Linkedin: https://tinyurl.com/mr2ajder
 
 📅 Profile created on: Friday, February 29, 2024
 
