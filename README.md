@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 </div>
 
-I'm Afuma, and I love creating cool and innovative projects using:
+I'm Etienne, and I love creating cool and innovative projects using:
 
 ✅ C
 🖥️ C++
