@@ -10,8 +10,8 @@ Welcome to my GitHub profile!
 I'm Etienne, and I love creating cool and innovative projects using:
 
 ✅ Python programming
-🖥️ n8n workflow
-❤️ AI developpment
+🖥️ n8n workflows
+❤️ AI development
 
 🎉 Fun and engaging software
 I enjoy exploring the endless possibilities of coding, from developing efficient algorithms to crafting interactive applications.
